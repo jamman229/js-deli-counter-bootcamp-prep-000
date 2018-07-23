@@ -18,8 +18,9 @@ function currentLine(katzDeli){
     return "The line is currently empty."
   }else{
     let i = 0
+    var line = []
     while (i < katzDeli.length){
-      return `The line is currently: ${i+1}. ${katzDeli[i]}`
+      line.push()
     }
   }
 }
