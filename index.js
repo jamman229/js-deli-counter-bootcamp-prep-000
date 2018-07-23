@@ -6,7 +6,7 @@ function takeANumber(katzDeli, name){
 }
 
 function nowServing(){
-  if ()
+  if (katzDeli => 0)
   return katzDeli[0]
     katzDeli.shift()
   
