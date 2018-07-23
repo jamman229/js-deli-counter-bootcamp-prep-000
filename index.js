@@ -17,6 +17,6 @@ function currentLine(katzDeli){
   if (katzDeli.length === 0){
     return "The link is currently empty"
   }else{
-    for (var i = 0)
+    for (var i = 0; )
   }
 }
