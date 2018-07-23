@@ -2,5 +2,6 @@ var katzDeli = []
 
 function takeANumber(katzDeli, name){
   katzDeli.push(name)
-  return 
+  return `Welcome, Ada. You are number ${katzDeli.length} in line.`
 }
+
