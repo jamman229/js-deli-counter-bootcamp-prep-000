@@ -20,7 +20,7 @@ function currentLine(katzDeli){
     let i = 0
     var line = []
     while (i < katzDeli.length){
-      line.push()
+      line.push(` `)
     }
   }
 }
